@@ -12,6 +12,7 @@ public class ecommerce {
 		
 		ecommerce s=new ecommerce();
 		s.rent();
+		s.gust();
 		
 		
 	}
