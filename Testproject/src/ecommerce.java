@@ -2,7 +2,7 @@
 public class ecommerce {
 	
 	public void rent() {
-		System.out.println("this is good critical");
+		System.out.println("customer approval by owner");
 		
 	}
 	void gust() {
